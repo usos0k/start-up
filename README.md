@@ -67,4 +67,4 @@ NOT 2 - 고객에게 정답이 있지 않다.
 8. 경쟁자
 9. 필수 보완재
 
-
+# Select a Beachhead Market
